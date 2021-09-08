@@ -14,6 +14,34 @@
 
 #
 
+# About me 
+
+```
+ ----------------
+< Hi! I'm Boris! >
+ ----------------
+        \
+         \
+         ,_---~~~~~----._
+  _,,_,*^____      _____``*g*\"*,
+ / __/ /'     ^.  /      \ ^@q   f
+[  @f | @))    |  | @))   l  0 _/
+ \`/   \~____ / __ \_____/    \
+  |           _l__l_           I
+  }          [______]           I
+  ]            | | |            |
+  ]             ~ ~             |
+  |                            |
+   |                           |
+```
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/borischen0203"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/borischen0203/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/borischen0203"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+</p>
+
 
 <!--
 **borischen0203/borischen0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
