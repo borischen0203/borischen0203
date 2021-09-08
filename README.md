@@ -1,10 +1,9 @@
-<!-- <div align="center">
+  <div align="center">
   <div style="display: flex;">
-<!--     <img src="https://raw.githubusercontent.com/scraly/gophers/main/jurassic-park.png" alt="jurassic-park"> -->
+    <img src="https://raw.githubusercontent.com/scraly/gophers/main/jurassic-park.png" alt="jurassic-park">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=borischen0203&show_icons=true&theme=vue" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borischen0203&hide=html&theme=vue" /> -->
-<!--   </div> -->
-#
+  </div>
   </div> 
 <!--   <img align="left" src="https://raw.githubusercontent.com/scraly/gophers/main/jurassic-park.png" width="330px" heigth="206px" /> -->
   <div align="center">
@@ -14,7 +13,7 @@
 
 #
 
-# About me 
+### About me 
 
 ```
  ----------------
