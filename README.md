@@ -6,7 +6,7 @@
 <!--   </div> -->
 #
   </div> 
-  <img align="left" src="https://raw.githubusercontent.com/scraly/gophers/main/jurassic-park.png" width="320px" heigth="196px" />
+  <img align="left" src="https://raw.githubusercontent.com/scraly/gophers/main/jurassic-park.png" width="330px" heigth="206px" />
   <div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borischen0203&hide_title=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36" />
   <img src="https://github-readme-stats.vercel.app/api?username=borischen0203&hide_title=true&show_icons=true&hide=prs,issues,contribs&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36" />
