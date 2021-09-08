@@ -1,3 +1,7 @@
+
+![github stats](https://github-readme-stats.vercel.app/api?username=borischen0203&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borischen0203&hide=html&theme=vue)
+
 ### Hi there 👋
 
 <!--
