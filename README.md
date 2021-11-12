@@ -7,10 +7,10 @@
   </div>
   </div> 
 <!--   <img align="left" src="https://raw.githubusercontent.com/scraly/gophers/main/jurassic-park.png" width="330px" heigth="206px" /> -->
-![](https://visitor-badge.glitch.me/badge?page_id=borischen0203)
+
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
-
+  ![](https://visitor-badge.glitch.me/badge?page_id=borischen0203)
 
 
 ### About me 
@@ -59,10 +59,10 @@
 	<a href="https://www.instagram.com/borischen0203"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-<div align="right">
+<!-- <div align="right">
   
 ![ViewCount](https://views.whatilearened.today/views/github/borischen0203/borischen0203.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://borischen0203.github.io/borischen0203/)
-</div>
+</div> -->
 
 <!--
 **borischen0203/borischen0203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
