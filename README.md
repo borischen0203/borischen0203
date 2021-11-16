@@ -56,22 +56,22 @@
 ### 👨‍💻My projects
 <div align="center">
 <a href="https://github.com/borischen0203/goris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=goris&theme=ayu-mirage&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=goris&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
 <a href="https://github.com/borischen0203/shoris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=shoris&theme=ayu-mirage&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=shoris&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
 <a href="https://github.com/borischen0203/URL-shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=URL-shortener&theme=ayu-mirage&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=URL-shortener&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
 <a href="https://github.com/borischen0203/short_url">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=short_url&theme=ayu-mirage&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=short_url&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
 <a href="https://github.com/borischen0203/Go-crawler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=Go-crawler&theme=ayu-mirage&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=Go-crawler&theme=ayu-mirage&layout=compact" width="400"  height="150" />
 </a>
 <a href="https://github.com/borischen0203/guestList">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=guestList&theme=ayu-mirage&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=guestList&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
 </div>
 
