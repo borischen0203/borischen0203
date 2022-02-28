@@ -76,8 +76,8 @@
 <a href="https://github.com/borischen0203/Go-crawler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=Go-crawler&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
-<a href="https://github.com/borischen0203/guestList">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=guestList&theme=ayu-mirage&layout=compact" width="400" height="150" />
+<a href="https://github.com/borischen0203/todolist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=todolist&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
 </div>
 
