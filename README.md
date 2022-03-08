@@ -55,6 +55,12 @@
 
 ### 👨‍💻My projects
 <div align="center">
+<a href="https://github.com/borischen0203/Go-todolist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=Go-todolist&theme=ayu-mirage&layout=compact" width="400" height="150" />
+</a>	
+<a href="https://github.com/borischen0203/todolist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=todolist&theme=ayu-mirage&layout=compact" width="400" height="150" />
+</a>	
 <a href="https://github.com/borischen0203/goris">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=goris&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
@@ -76,9 +82,7 @@
 <a href="https://github.com/borischen0203/Go-crawler">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=Go-crawler&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
-<a href="https://github.com/borischen0203/todolist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=todolist&theme=ayu-mirage&layout=compact" width="400" height="150" />
-</a>
+
 </div>
 
 ### :coffee: Let's Connect 
