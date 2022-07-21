@@ -53,6 +53,7 @@
   <img height="120px" src="https://github-readme-stats.vercel.app/api?username=borischen0203&hide_title=true&show_icons=true&hide=prs,issues,contribs&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36" />
   </div>
 
+<!--
 ### 👨‍💻My projects
 <div align="center">
 <a href="https://github.com/borischen0203/Go-todolist">
@@ -85,6 +86,7 @@
 <a href="https://github.com/borischen0203/guestList">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=guestList&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
+-->
 
 </div>
 
