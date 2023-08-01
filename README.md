@@ -10,8 +10,8 @@
 
 
 # Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
-  ![](https://visitor-badge.glitch.me/badge?page_id=borischen0203)
-
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=borischen0203) /> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=borischen0203&label=Profile%20views&color=0e75b6&style=flat" alt="borischen0203" /> </p>
 
 ### About me 
 
