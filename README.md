@@ -13,7 +13,7 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=borischen0203) /> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borischen0203&label=Profile%20views&color=0e75b6&style=flat" alt="borischen0203" /> </p>
 
-### About me 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me 
 
 ```
  ----------------
@@ -34,7 +34,7 @@
    |                           |
 ```
   
-### 🛠️Tech Stack
+### 🛠️ Tech Stack
    ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
    ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
    ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
@@ -47,7 +47,7 @@
    ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=Swagger)&nbsp;
    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 💻Coding Activity
+### 💻 Coding Activity
   <div align="center">
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borischen0203&hide_title=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&count_private=true&&line_height=21&text_color=daf7dc&bg_color=002b36" />
   <img height="120px" src="https://github-readme-stats.vercel.app/api?username=borischen0203&hide_title=true&show_icons=true&hide=prs,issues,contribs&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=002b36" />
