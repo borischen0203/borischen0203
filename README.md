@@ -87,8 +87,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=borischen0203&repo=guestList&theme=ayu-mirage&layout=compact" width="400" height="150" />
 </a>
 -->
-
 </div>
+
+![snake gif](https://github.com/borischen0203/borischen0203/blob/output/github-contribution-grid-snake.gif)
 
 ### :coffee: Let's Connect 
 <p align="center">
