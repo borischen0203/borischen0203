@@ -89,7 +89,7 @@
 -->
 </div>
 
-![snake gif](https://github.com/borischen0203/borischen0203/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/borischen0203/borischen0203/output/github-contribution-grid-snake-dark.svg)
 
 ### :coffee: Let's Connect 
 <p align="center">
