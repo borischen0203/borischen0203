@@ -9,12 +9,11 @@
 <!--   <img align="left" src="https://raw.githubusercontent.com/scraly/gophers/main/jurassic-park.png" width="330px" heigth="206px" /> -->
 
 
-# Hi, welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+# Hi, welcome to my GitHub! <a href=""><img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="Party Blob" width="30"></a>
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=borischen0203) /> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borischen0203&label=Profile%20views&color=0e75b6&style=flat" alt="borischen0203" /> </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me 
-
+### <a href=""><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></a> About me 
 ``` 
  ----------------
 < Hi! I'm Boris!! >
